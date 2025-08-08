@@ -2,11 +2,11 @@
 description: Fresh Amazon UK deals posted automatically every day.
 theme: minima
 
-# You are a *project* site under the user 'Isejes'
 url: "https://isejes.github.io"
 baseurl: "/smartpicksdaily.github.io"
 
-permalink: /:categories/:year/:month/:day/:title/
+# Simpler, standard permalink
+permalink: /:year/:month/:day/:title/
 
 plugins:
   - jekyll-sitemap
