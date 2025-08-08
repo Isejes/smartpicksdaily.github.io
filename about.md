@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to **SmartPicks Daily Deals**!  
+We automatically post the best Amazon UK deals every single day — all with our affiliate links so you can support the site at no extra cost.  
 
-### More Information
+Our goal is to save you time and money by filtering out the noise and bringing you only the hottest deals worth grabbing.  
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+💡 **Tip:** Bookmark this page or check back daily for fresh offers!
