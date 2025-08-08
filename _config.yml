@@ -20,3 +20,5 @@ exclude:
   - CNAME
 
 header_pages: []
+header_pages:
+  - about.md
